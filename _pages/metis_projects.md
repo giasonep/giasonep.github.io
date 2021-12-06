@@ -1,10 +1,11 @@
 ---
-title: "Metis Projects"
 permalink: /metis-projects/
 author_profile: true
 ---
 
-[<img src="/assets/images/metis.png"/>](/assets/images/classification/metis.png) 
+<p align="center">
+  <img src="/assets/images/classification/metis.png" />
+</p>
 
 I am a graduate of Metis' accredited intensive Data Science & Engineering Bootcamp focused on Python programming, machine learning, statistical modeling, pipelines, data visualization, project design, and communication—fall 2021. 
 
