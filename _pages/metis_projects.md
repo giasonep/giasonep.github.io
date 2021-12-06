@@ -4,7 +4,8 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/assets/images/metis.png" />
+  <img src="/assets/images/metis.png" width=auto 
+     height="200"/>
 </p>
 
 I am a graduate of Metis' accredited intensive Data Science & Engineering Bootcamp focused on Python programming, machine learning, statistical modeling, pipelines, data visualization, project design, and communication—fall 2021. 
