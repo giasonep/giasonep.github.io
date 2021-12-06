@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 permalink: /contact/
-author_profile: true
+author_profile: false
 ---
 
 <html>
