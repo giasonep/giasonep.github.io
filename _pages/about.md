@@ -8,10 +8,10 @@ I am a former risk manager and market-maker on the CBOE and CME who fulfilled my
 
 Notable skills include but are not limited to:
 
-• Python
-• SQL
-• Pandas
-• Machine Learning (Regression, Classification, Supervised & Unsupervised)
-• NLP
-• Web-Scraping
-• Google Cloud
+- Python
+- SQL
+- Pandas
+- Machine Learning (Regression, Classification, Supervised & Unsupervised)
+- NLP
+- Web-Scraping
+- Google Cloud
