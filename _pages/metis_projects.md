@@ -11,15 +11,12 @@ I am a graduate of Metis' accredited intensive Data Science & Engineering Bootca
 
 ## Module 1 - Exploratory Data Analysis
 #### [EDA of MTA Turnstile Data](https://giasonep.github.io/metis-projects/eda/)
-
 ## Module 2 - Linear Regression & Web Scraping
 #### [Data Scientist Salary Predictor](https://giasonep.github.io/metis-projects/regression-web-scraping/)
-
 ## Module 3 - Introduction to Data Engineering
 #### [Stock Fundamental Research Pipeline](https://giasonep.github.io/metis-projects/data-engineering/)
-
 ## Module 4 - Machine Learning Calssification
 #### [Stock Target Price Predictor](https://giasonep.github.io/metis-projects/classification/)
-
 ## Module 5 - NLP & Unsupervised Learning
 #### [NLP to Identify Teen Interests](https://giasonep.github.io/metis-projects/nlp/)
+{: .notice--primary}
