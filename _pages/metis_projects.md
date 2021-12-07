@@ -5,7 +5,7 @@ author_profile: true
 
 [<img src="/assets/images/metis.png"/>](/assets/images/metis.png) 
 
-I am a graduate of Metis' accredited intensive Data Science & Engineering Bootcamp focused on Python programming, machine learning, statistical modeling, pipelines, data visualization, project design, and communication—fall 2021. 
+I am a graduate of Metis' accredited intensive Data Science & Engineering Bootcamp focused on Python programming, machine learning, statistical modeling, pipelines, data visualization, project design, and communication—**fall 2021**. 
 
 *"Metis accelerates data science and analytics learning for individuals, companies, and institutions through full-time and part-time online education, corporate training and immersive bootcamps."* - [Metis](https://www.thisismetis.com/)
 
