@@ -15,3 +15,4 @@ Notable skills include but are not limited to:
 - NLP
 - Web-Scraping
 - Google Cloud
+{: .notice--info}
