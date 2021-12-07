@@ -1,11 +1,11 @@
 main:
   - title: "Metis Projects"
     url: /metis-projects/
-  - title: "Resources"
-    url: /resources/
   - title: "Blog"
     url: /blog/
   - title: "About"
     url: /about/
+  - title: "Resume"
+    url: /resume/
   - title: "Contact"
     url: /contact/

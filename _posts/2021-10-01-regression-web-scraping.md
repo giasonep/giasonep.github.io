@@ -1,6 +1,7 @@
 ---
 title: "Data Scientist Salary Predictor"
 permalink: /metis-projects/regression-web-scraping/
+category: Projects
 toc: true
 toc_label: "Table of Contents"
 toc_icon: table
