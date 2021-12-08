@@ -7,7 +7,7 @@ tags:
   - Resources
 ---
 ![image-center](/assets/images/jump_start/neuralnetworks.jpg){: .align-center}
-<sub><sup>Photo by <a href="https://unsplash.com/@fabioha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">fabio</a> on <a href="https://unsplash.com/s/photos/neural-network?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sup></sub>
+<center><sub><sup>Photo by <a href="https://unsplash.com/@fabioha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">fabio</a> on <a href="https://unsplash.com/s/photos/neural-network?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sup></sub></center>
 
 Below I share the resources that have helped and continue to help me in my Data Science journey.
 
@@ -23,7 +23,7 @@ Metis' short immersive courses allow you to dip your toes into the basic fundame
 
 Daily practice for *thirty* minutes goes a long way.    
 
-[<img src="/assets/images/jump_start/youtube.png" align="center">](https://www.youtube.com/)  
+![image-left](/assets/images/jump_start/youtube.jpg){: .align-left}  
 --- 
 ### Data Science Channels on YouTube  
 
