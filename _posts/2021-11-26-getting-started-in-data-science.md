@@ -19,7 +19,7 @@ Metis' short immersive courses allow you to dip your toes into the basic fundame
 
 ## Python & SQL Practice
 
-[<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/)[<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/)[<img src="/assets/images/jump_start/hackerrank.png" align="center">](https://www.hackerrank.com/)  
+[<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/)[<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/)[<img src="/assets/images/jump_start/hackerrank.png" align="right">](https://www.hackerrank.com/)  
 
 Daily practice for *thirty* minutes goes a long way.    
 
