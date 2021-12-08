@@ -77,21 +77,21 @@ Frustrated with `LDA`, I decided to try `NMF` (a model that factorizes high-dime
 
 *My final list of topics*:
 
-•	**Video Reviews** – fast-takes, mockery
-•	**Hair Care**
-•	**Prizes** – giveaways, individual challenges
-•	**Food** – cooking, food reviews
-•	**Minecraft** – video game
-•	**Games** – anything with game in it: Squid Games, Football
-•	**School** – high school, college
-•	**Educational** – NASA, BLM, tell all’s
-•	**Pregnancy** – matured vloggers sharing their birthing stories
-•	**Dance/Music** – musicals, music videos, dance tutorials
-•	**Halloween** – haunted houses, pumpkins
-•	**Clothes**
-•	**Challenges**– contestants competing for prizes
-•	**Beauty Care** – makeup, purse reveals
-•	**Christmas**
+-	**Video Reviews** – fast-takes, mockery
+-	**Hair Care**
+-	**Prizes** – giveaways, individual challenges
+-	**Food** – cooking, food reviews
+-	**Minecraft** – video game
+-	**Games** – anything with game in it: Squid Games, Football
+-	**School** – high school, college
+-	**Educational** – NASA, BLM, tell all’s
+-	**Pregnancy** – matured vloggers sharing their birthing stories
+-	**Dance/Music** – musicals, music videos, dance tutorials
+-	**Halloween** – haunted houses, pumpkins
+-	**Clothes**
+-	**Challenges**– contestants competing for prizes
+-	**Beauty Care** – makeup, purse reveals
+-	**Christmas**
     
 In conjunction with the metadata, I was able to determine that the topic with the greatest representation within the dataset was **Beauty Care**, the least was **Pregnancy**. The topic with the greatest average ‘likes’ was **Prizes** and the topic with greatest average ‘dislikes’ was **Christmas**—surprisingly. **Prize** videos also had the highest average views, whereas **Halloween** videos had the least. **Pregnancy** videos had the highest average like to dislike ratio. 
 
