@@ -28,7 +28,9 @@ Metis' short immersive courses allow you to dip your toes into the basic fundame
 
 Daily practice for *thirty* minutes goes a long way.  
 
-## Data Science Channels on YouTube  
+![image-center](/assets/images/jump_start/youtube_large.png){: .align-center}
+
+### Data Science Channels on YouTube  
 
 - [Kimberly Fessel](https://www.youtube.com/c/kimberlyfessel)
 
@@ -40,7 +42,7 @@ Daily practice for *thirty* minutes goes a long way.
 
 - [Ken Jee](https://www.youtube.com/c/KenJee1) 
 
-## Maths Channels on YouTube  
+### Maths Channels on YouTube  
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 
