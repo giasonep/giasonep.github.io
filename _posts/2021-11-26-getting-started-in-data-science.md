@@ -30,6 +30,7 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 <br>
 <br>
+---
 ![<img src="/assets/images/jump_start/youtube.png"/>](/assets/images/jump_start/youtube.png)
 ---
 
