@@ -21,27 +21,27 @@ Daily practice for 30 minutes goes a long way.
 
 [<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/) [<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/) [<img src="/assets/images/jump_start/hackerrank.png" align="right">](https://www.hackerrank.com/)  
 
----
+---  
 
 [<img src="/assets/images/jump_start/youtube.png" align="center">](https://www.youtube.com/)  
 
 ### Data Science Channels on YouTube  
 
-[Tina Huang](https://www.youtube.com/c/TinaHuang1)
+- [Tina Huang](https://www.youtube.com/c/TinaHuang1)
 
-[Data Professor](https://www.youtube.com/c/DataProfessor)
+- [Data Professor](https://www.youtube.com/c/DataProfessor)
 
-[Ken Jee](https://www.youtube.com/c/KenJee1)
+- [Ken Jee](https://www.youtube.com/c/KenJee1)
 
-[Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)  
+- [Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)  
 
 
 
 ### Maths Channels on YouTube  
 
-[StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
+- [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 
-[3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 
 ## Data Science Reading  
 
