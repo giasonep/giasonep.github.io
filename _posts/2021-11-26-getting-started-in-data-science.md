@@ -6,7 +6,7 @@ tags:
   - Data Science
   - Resources
 ---
-![image-center](/assets/images/neuralnetworks.jpg){: .align-center}
+![image-center](/assets/images/jump_start/neuralnetworks.jpg){: .align-center}
 Photo by <a href="https://unsplash.com/@fabioha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">fabio</a> on <a href="https://unsplash.com/s/photos/neural-network?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Below I share the resources that have helped and continue to help me in my Data Science journey.
