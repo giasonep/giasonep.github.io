@@ -30,7 +30,7 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 ## Data Science on Youtube
 
-<p align="left"><a href="https://www.youtube.com/"><img src="/assets/images/jump_start/youtube.png"></a></p> YouTube is a great way to learn from Data Science content creators who provide industry experience, teach concepts, present project ideas, and provide for a community of eager data minded self-starters. 
+<p align="left"><a href="https://www.youtube.com/"><img src="/assets/images/jump_start/youtube.png"></a> YouTube is a great way to learn from Data Science content creators who provide industry experience, teach concepts, present project ideas, and provide for a community of eager data minded self-starters.</p> 
 
 ##### Data Science Channels 
 
