@@ -14,12 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Data Science & Analytics
-subtitle: Design ∙ Impact
 name: Jason Palumbo
 logo: "/assets/images/logo.png"
-header:
-  image: /assets/images/Header.png
-subtitle: False
+subtitle: Design ∙ Impact
 email: False
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, my name is Jason Palumbo and I would love for you to check out my data science site!
