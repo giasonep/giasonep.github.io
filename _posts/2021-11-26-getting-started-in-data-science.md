@@ -14,7 +14,7 @@ tags:
 
 ## Data Science Bootcamps & Short Immersive Courses  
 
-Metis' short immersive courses allow you to dip your toes into the basic fundamentals of data science while preparing for the rigors of the Bootcamp. With top tiered and experienced instructors at the helm of every module, a well-established network of top data science talent in the field, and a careers team invested in your future, Metis is hard to beat—*your success is their success*.  
+For those looking to test the data waters, Metis' short immersive courses allow you to dip your toes into the basic fundamentals of data science while preparing for the rigors of the Bootcamp. Upon acceptance into Metis, prospective students have four different Bootcamp tracks to choose from and provide for full and part-time needs. With top tiered and experienced instructors at the helm of every module, a well-established network of top data science talent in the field, and a careers team invested in your future, Metis is hard to beat—*your success is their success*.  
 
 [<img src="/assets/images/metis.png">](https://www.thisismetis.com/){: .align-center}  
 
@@ -32,7 +32,7 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 ![image-left](/assets/images/jump_start/youtube.png){: .align-left} YouTube is a great way to learn from Data Science content creators who provide industry experience, teach concepts, present project ideas, and provide for a community of eager data minded self-starters. 
 
-### Data Science Channels 
+#### Data Science Channels 
 
 - [Kimberly Fessel](https://www.youtube.com/c/kimberlyfessel)
 
@@ -44,7 +44,7 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 - [Ken Jee](https://www.youtube.com/c/KenJee1) 
 
-### Maths Channels 
+#### Maths Channels 
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 
