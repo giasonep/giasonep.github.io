@@ -16,4 +16,4 @@ I am a former risk manager and market-maker on the CBOE and CME who fulfilled my
 - Google Cloud
 {: .notice--warning}
 
-*Check out my resume* [*here*]](https://giasonep.github.io/resume/)
+*Check out my resume* [*here*](https://giasonep.github.io/resume/)
