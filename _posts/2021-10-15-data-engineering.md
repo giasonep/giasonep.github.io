@@ -1,7 +1,6 @@
 ---
 title: "Stock Fundamental Research Pipeline"
 permalink: /metis-projects/data-engineering/
-category: Projects
 toc: true
 toc_label: "Table of Contents"
 toc_icon: table

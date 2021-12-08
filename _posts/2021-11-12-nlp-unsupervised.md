@@ -1,7 +1,6 @@
 ---
 title: "NLP to Identify Teen Interests"
 permalink: /metis-projects/nlp/
-category: Projects
 toc: true
 toc_label: "Table of Contents"
 toc_icon: table
