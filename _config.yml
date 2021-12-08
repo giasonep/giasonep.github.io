@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Data Science & Analytics
+subtitle: Design ∙ Impact
 name: Jason Palumbo
 logo: "/assets/images/logo.png"
 header:
@@ -21,7 +22,7 @@ header:
 subtitle: False
 email: False
 description: >- # this means to ignore newlines until "baseurl:"
-  Engineering experience one observation at a time.
+  Hi, my name is Jason Palumbo and I would love for you to check out my data science site!
 twitter_username: username
 github_username: giasonep
 minimal_mistakes_skin: dirt
