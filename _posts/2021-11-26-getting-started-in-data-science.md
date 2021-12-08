@@ -28,11 +28,11 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 [<img src="/assets/images/jump_start/hackerrank.png" align="center">](https://www.hackerrank.com/)
 
-
 <br>
 <br>
 ![<img src="/assets/images/jump_start/youtube.png"/>](/assets/images/jump_start/youtube.png)
 ---
+
 ### Data Science Channels on YouTube  
 
 - [Kimberly Fessel](https://www.youtube.com/c/kimberlyfessel)
