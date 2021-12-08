@@ -13,7 +13,7 @@ Below I share the resources that have helped and continue to help me in my Data 
 
 [<img src="/assets/images/metis.png" align="center">](https://www.thisismetis.com/)  
 
-Metis' short immersive courses allow you to dip your toes into the basic fundamentals while preparing for the rigors of the Bootcamp. With a well established network of top data science talent in the field, plus top tier and experienced instructors at the helm of every module, Metis is hard to beat. Your success is their success. 
+Metis' short immersive courses allow you to dip your toes into the basic fundamentals of data science while preparing for the rigors of the Bootcamp. With top tiered and experienced instructors at the helm of every module, a well established network of top data science talent in the field, and a careers team invested in your future, Metis is hard to beat—*your success is their success*.  
 
 ## Python & SQL Practice
 
@@ -41,7 +41,7 @@ Daily practice for 30 minutes goes a long way.
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 
--[3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 
 ## Data Science Reading  
 
