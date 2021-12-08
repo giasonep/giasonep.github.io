@@ -18,7 +18,9 @@ tags:
 
 Metis' short immersive courses allow you to dip your toes into the basic fundamentals of data science while preparing for the rigors of the Bootcamp. With top tiered and experienced instructors at the helm of every module, a well established network of top data science talent in the field, and a careers team invested in your future, Metis is hard to beat—*your success is their success*.  
 
-## Python & SQL Practice
+## Python & SQL Practice  
+
+Daily practice for *thirty* minutes goes a long way.
 
 [<img src="/assets/images/jump_start/leetcode.png" align="center">](https://leetcode.com/)  
 
