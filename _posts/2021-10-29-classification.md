@@ -7,6 +7,7 @@ toc_icon: table
 toc_sticky: true
 tags:
   - Classification
+  - Projects
 ---
 
 [Metis](https://www.thisismetis.com/) Module 4 - ***Machine Learning Classification***

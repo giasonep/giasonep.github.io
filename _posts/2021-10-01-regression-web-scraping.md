@@ -8,6 +8,7 @@ toc_sticky: true
 tags:
   - Regression
   - Web Scraping
+  - Projects
 ---
 
 [Metis](https://www.thisismetis.com/) Module 2 - ***Linear Regression & Web Scraping***

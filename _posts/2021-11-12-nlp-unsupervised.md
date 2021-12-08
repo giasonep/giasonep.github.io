@@ -8,6 +8,7 @@ toc_sticky: true
 tags:
   - NLP
   - Unsupervised
+  - Projects
 ---
 
 [Metis](https://www.thisismetis.com/) Module 5 - ***NLP & Unsupervised Learning***

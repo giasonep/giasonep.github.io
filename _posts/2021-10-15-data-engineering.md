@@ -8,6 +8,7 @@ toc_sticky: true
 tags:
   - Engineering
   - Streamlit
+  - Projects
 ---
 
 [Metis](https://www.thisismetis.com/) Module 3 - ***Introduction to Data Engineering***
