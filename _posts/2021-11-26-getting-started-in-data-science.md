@@ -30,7 +30,7 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 ## Data Science on Youtube
 
-![image-left](/assets/images/jump_start/youtube.png){: .align-left} YouTube is a great way to learn from Data Science content creators who provide industry experience, teach concepts, present project ideas, and provide for a community of eager data minded self-starters. 
+<p align="left"><a href="https://www.youtube.com/"><img src="/assets/images/jump_start/youtube.png"></a></p> YouTube is a great way to learn from Data Science content creators who provide industry experience, teach concepts, present project ideas, and provide for a community of eager data minded self-starters. 
 
 ##### Data Science Channels 
 
@@ -60,10 +60,10 @@ Reading a Data Science related blog/article a day keeps you in the game. Check o
 
 ## More Data Science Learning & Interview Prep  
 
-*"A specific path for becoming a machine learning engineer in the real-world."* - Mike West, LogikBot  
+*"A specific path for becoming a machine learning engineer in the real-world."* - [Mike West](https://www.quora.com/profile/Mike-West-99), [LogikBot](https://www.logikbot.com/)  
 
 <p align="center"><a href="https://www.logikbot.com/"><img src="/assets/images/jump_start/logikbot.png"></a></p>  
 
-*"Prepare for a career with SQL, python, algorithms, statistics, probability, product sense, system design, and other real interview questions."* - StrataScratch  
+*"Prepare for a career with SQL, python, algorithms, statistics, probability, product sense, system design, and other real interview questions."* - [StrataScratch](https://www.stratascratch.com/)  
 
 <p align="center"><a href="https://www.stratascratch.com/"><img src="/assets/images/jump_start/stratascratch.png"></a></p>  
