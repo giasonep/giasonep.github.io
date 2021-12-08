@@ -13,7 +13,7 @@ Below I share the resources that have helped and continue to help me in my Data 
 
 [<img src="/assets/images/metis.png" align="center">](https://www.thisismetis.com/)  
 
-## Learn Python & SQL  
+## Python & SQL Practice
 
 Daily practice for 30 minutes goes a long way.
 
@@ -37,18 +37,14 @@ Daily practice for 30 minutes goes a long way.
 
 ## Data Science Reading  
 
-At the very least reading a blog/article a day keeps you in the game!  
+At the very least, reading a blog/article a day keeps you in the game!  
 
 [<img src="/assets/images/jump_start/tds.png" align="center">](https://towardsdatascience.com/)  
 
 [<img src="/assets/images/jump_start/quora.png" align="center">](https://www.quora.com/)  
 
-## Paid Learning & Interview Prep  
+## Paid Learning & Interview Prep    
 
-### Machine Learning  
-
-[<img src="/assets/images/jump_start/logikbot.png" align="center">](https://www.logikbot.com/)  
-
-### Data Science Interview Prep  
+[<img src="/assets/images/jump_start/logikbot.png" align="center">](https://www.logikbot.com/)   
 
 [<img src="/assets/images/jump_start/stratascratch.png" align="center">](https://www.stratascratch.com/)  
