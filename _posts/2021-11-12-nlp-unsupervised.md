@@ -54,7 +54,7 @@ The metadata consisted of:
 
 I used `Pandas` to clean the metadata and perform simple transformations such as date conversion, remove videos posted before 2015, and even created a custom function to fix the `vidLength` column. Furthermore, I removed videos that had less than twenty words in their transcript, as these would provide no real context, and which might cause a model to assign them to the wrong topic. 
 
-In text preprocessing I used `Scikit-Learn's` `ENGLISH_STOP_WORDS` list in addition to my own list of stop words to remove frequently occurring English words that would provide little context and create too much noise in my analysis. I also lemmatized all words (the process of grouping together the inflected forms of a word into a single item, stripped all white spaces, and lowercased all letters.
+In text preprocessing I used `Scikit-Learn's` `ENGLISH_STOP_WORDS` list in addition to my own list of stop words to remove frequently occurring English words that would provide little context and create too much noise in my analysis. I also lemmatized all words (the process of grouping together the inflected forms of a word into a single item), stripped all white spaces, and lowercased all letters.
 
 I also used `Scikit-Learn's` `CountVectorizer` (I used for “LDA”) and `TfidfVectorizer` (I used for “NMF”) to transform the raw text into meaningful feature vectors of numbers, also known as a document-term matrices. Within this process I created bigrams (a sequence of two adjacent elements from a string of tokens), removed additional stop words, set a max and min threshold to reduce the representation of overrepresented/underrepresented words within the matrix, and used a max feature creation of one thousand.
 
@@ -76,21 +76,21 @@ Frustrated with `LDA`, I decided to try `NMF` (a model that factorizes high-dime
 
 *My final list of topics*:
 
-    •	**Video Reviews** – fast-takes, mockery
-    •	**Hair Care**
-    •	**Prizes** – giveaways, individual challenges
-    •	**Food** – cooking, food reviews
-    •	**Minecraft** – video game
-    •	**Games** – anything with game in it: Squid Games, Football
-    •	**School** – high school, college
-    •	**Educational** – NASA, BLM, tell all’s
-    •	**Pregnancy** – matured vloggers sharing their birthing stories
-    •	**Dance/Music** – musicals, music videos, dance tutorials
-    •	**Halloween** – haunted houses, pumpkins
-    •	**Clothes**
-    •	**Challenges **– contestants competing for prizes
-    •	**Beauty Care** – makeup, purse reveals
-    •	**Christmas**
+•	**Video Reviews** – fast-takes, mockery
+•	**Hair Care**
+•	**Prizes** – giveaways, individual challenges
+•	**Food** – cooking, food reviews
+•	**Minecraft** – video game
+•	**Games** – anything with game in it: Squid Games, Football
+•	**School** – high school, college
+•	**Educational** – NASA, BLM, tell all’s
+•	**Pregnancy** – matured vloggers sharing their birthing stories
+•	**Dance/Music** – musicals, music videos, dance tutorials
+•	**Halloween** – haunted houses, pumpkins
+•	**Clothes**
+•	**Challenges**– contestants competing for prizes
+•	**Beauty Care** – makeup, purse reveals
+•	**Christmas**
     
 In conjunction with the metadata, I was able to determine that the topic with the greatest representation within the dataset was **Beauty Care**, the least was **Pregnancy**. The topic with the greatest average ‘likes’ was **Prizes** and the topic with greatest average ‘dislikes’ was **Christmas**—surprisingly. **Prize** videos also had the highest average views, whereas **Halloween** videos had the least. **Pregnancy** videos had the highest average like to dislike ratio. 
 
