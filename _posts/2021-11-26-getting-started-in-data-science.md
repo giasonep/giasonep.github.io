@@ -11,7 +11,7 @@ Below I share the resources that have helped and continue to help me in my Data 
 
 ## Bootcamps & Short Immersive Courses  
 
-[<img src="/assets/images/metis.jpg" align="center">](https://www.thisismetis.com/)  
+[<img src="/assets/images/metis.png" align="center">](https://www.thisismetis.com/)  
 
 ## Learn Python & SQL  
 
