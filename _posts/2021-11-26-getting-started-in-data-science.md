@@ -19,23 +19,23 @@ Metis' short immersive courses allow you to dip your toes into the basic fundame
 
 [<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/) [<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/) [<img src="/assets/images/jump_start/hackerrank.png" align="right">](https://www.hackerrank.com/)  
 
-Daily practice for 30 minutes goes a long way.  
+Daily practice for *thirty* minutes goes a long way.    
 
----  
+[<img src="/assets/images/jump_start/youtube.png" align="center">](https://www.youtube.com/)  
 
-[<img src="/assets/images/jump_start/youtube.png" align="center">](https://www.youtube.com/)
+--- 
 
 ### Data Science Channels on YouTube  
 
 - [Kimberly Fessel](https://www.youtube.com/c/kimberlyfessel)
 
+- [Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ) 
+
 - [Tina Huang](https://www.youtube.com/c/TinaHuang1)
 
 - [Data Professor](https://www.youtube.com/c/DataProfessor)
 
-- [Ken Jee](https://www.youtube.com/c/KenJee1)
-
-- [Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)  
+- [Ken Jee](https://www.youtube.com/c/KenJee1) 
 
 ### Maths Channels on YouTube  
 
