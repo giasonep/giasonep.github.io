@@ -27,6 +27,8 @@ Daily practice for 30 minutes goes a long way.
 
 ### Data Science Channels on YouTube  
 
+- [Kimberly Fessel](https://www.youtube.com/c/kimberlyfessel)
+
 - [Tina Huang](https://www.youtube.com/c/TinaHuang1)
 
 - [Data Professor](https://www.youtube.com/c/DataProfessor)
@@ -35,13 +37,11 @@ Daily practice for 30 minutes goes a long way.
 
 - [Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)  
 
-
-
 ### Maths Channels on YouTube  
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 
-- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)  
 
 ## Data Science Reading  
 
