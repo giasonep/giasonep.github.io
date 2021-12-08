@@ -9,15 +9,15 @@ tags:
 
 Below I share the resources that have helped and continue to help me in my Data Science journey.
 
-# Bootcamps & Short Immersive Courses  
+## Bootcamps & Short Immersive Courses  
 
 [<img src="/assets/images/metis.png" align="center">](https://www.thisismetis.com/)  
 
 Metis' short immersive courses allow you to dip your toes into the basic fundamentals of data science while preparing for the rigors of the Bootcamp. With top tiered and experienced instructors at the helm of every module, a well established network of top data science talent in the field, and a careers team invested in your future, Metis is hard to beat—*your success is their success*.  
 
-# Python & SQL Practice
+## Python & SQL Practice
 
-[<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/) [<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/)[<img src="/assets/images/jump_start/hackerrank.png" align="right">](https://www.hackerrank.com/)  
+[<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/)[<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/)[<img src="/assets/images/jump_start/hackerrank.png" align="right">](https://www.hackerrank.com/)  
 
 Daily practice for *thirty* minutes goes a long way.    
 
@@ -41,7 +41,7 @@ Daily practice for *thirty* minutes goes a long way.
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)  
 
-# Data Science Reading  
+## Data Science Reading  
 
 Reading a blog/article a day keeps you in the game.  
 
@@ -49,7 +49,7 @@ Reading a blog/article a day keeps you in the game.
 
 [<img src="/assets/images/jump_start/quora.png" align="center">](https://www.quora.com/)  
 
-# Paid Learning & Interview Prep  
+## Paid Learning & Interview Prep  
 
 "A specific path for becoming a machine learning engineer in the real-world." - Mike West, LogikBot  
 
