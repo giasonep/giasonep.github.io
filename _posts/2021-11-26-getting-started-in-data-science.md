@@ -11,7 +11,7 @@ Below I share the resources that have helped and continue to help me in my Data 
 
 ## Bootcamps & Short Immersive Courses  
 
-[<img src="/assets/images/jump_start/metis.jpg" align="center">](https://www.thisismetis.com/)  
+[<img src="/assets/images/metis.jpg" align="center">](https://www.thisismetis.com/)  
 
 ## Learn Python & SQL  
 
@@ -37,14 +37,14 @@ Below I share the resources that have helped and continue to help me in my Data 
 
 Reading a blog a day keeps you in the game!  
 
-[<img src="/assets/images/jump_start/tds.png">](https://towardsdatascience.com/)[<img src="/assets/images/jump_start/quora.png" align="center">](https://www.quora.com/)  
+[<img src="/assets/images/jump_start/tds.png" align="left">](https://towardsdatascience.com/)[<img src="/assets/images/jump_start/quora.png" align="center">](https://www.quora.com/)  
 
 ## Paid Learning & Interview Prep  
 
 ### Machine Learning  
 
-[<img src="/assets/images/jump_start/logikbot.png" align="center">>](https://www.logikbot.com/)  
+[<img src="/assets/images/jump_start/logikbot.png" align="center">](https://www.logikbot.com/)  
 
 ### Data Science Interview Prep  
 
-[<img src="/assets/images/jump_start/stratascratch.png" align="center">>](https://www.stratascratch.com/)  
+[<img src="/assets/images/jump_start/stratascratch.png" align="center">](https://www.stratascratch.com/)  
