@@ -17,13 +17,13 @@ Metis' short immersive courses allow you to dip your toes into the basic fundame
 
 ## Python & SQL Practice
 
-Daily practice for 30 minutes goes a long way.  
-
 [<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/) [<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/) [<img src="/assets/images/jump_start/hackerrank.png" align="right">](https://www.hackerrank.com/)  
+
+Daily practice for 30 minutes goes a long way.  
 
 ---  
 
-[<img src="/assets/images/jump_start/youtube.png" align="center">](https://www.youtube.com/)  
+[<img src="/assets/images/jump_start/youtube.png" align="center">](https://www.youtube.com/)
 
 ### Data Science Channels on YouTube  
 
