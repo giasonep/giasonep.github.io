@@ -32,7 +32,7 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 ![image-left](/assets/images/jump_start/youtube.png){: .align-left} YouTube is a great way to learn from Data Science content creators who provide industry experience, teach concepts, present project ideas, and provide for a community of eager data minded self-starters. 
 
-#### Data Science Channels 
+##### Data Science Channels 
 
 - [Kimberly Fessel](https://www.youtube.com/c/kimberlyfessel)
 
@@ -44,7 +44,7 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 - [Ken Jee](https://www.youtube.com/c/KenJee1) 
 
-#### Maths Channels 
+##### Maths Channels 
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 
@@ -52,13 +52,13 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 ## Data Science Reading  
 
-Reading a Data Science related blog/article a day keeps you in the game.  
+Reading a Data Science related blog/article a day keeps you in the game. Check out both of these sites for unique, fun, and stimulating data related content.
 
 <p align="center"><a href="https://towardsdatascience.com/"><img src="/assets/images/jump_start/tds.png"></a></p>  
 
 <p align="center"><a href="https://www.quora.com/"><img src="/assets/images/jump_start/quora.png"></a></p>  
 
-## Additional Data Science Learning & Interview Prep  
+## More Data Science Learning & Interview Prep  
 
 *"A specific path for becoming a machine learning engineer in the real-world."* - Mike West, LogikBot  
 
