@@ -32,7 +32,7 @@ Daily practice for *thirty* minutes goes a long way.
 
 <br>
 <br>
-[<img src="/assets/images/jump_start/youtube_large.png"/>](/assets/images/jump_start/youtube_large.png)
+![<img src="/assets/images/jump_start/youtube_large.png"/>](/assets/images/jump_start/youtube_large.png)
 
 ### Data Science Channels on YouTube  
 
