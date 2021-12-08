@@ -7,11 +7,11 @@ tags:
   - Resources
 ---
 
-Below I share the resources that helped me in my Data Science journey.
+Below I share the resources that have helped and continue to help me in my Data Science journey.
 
-## Bootcamps & Short Immetsive Courses
+## Bootcamps & Short Immersive Courses
 
-[<img src="/assets/images/jump_start/metis.png" align="left">](https://www.thisismetis.com/) 
+[<img src="/assets/images/jump_start/metis.jpg" align="left">](https://www.thisismetis.com/) 
 
 ## Free Coding Sites
 
@@ -19,7 +19,7 @@ Below I share the resources that helped me in my Data Science journey.
 
 ## YouTube Data Science Channels
 
-[<img src="/assets/images/jump_start/youtube.png" align="left">](https://www.youtube.com/)
+[<img src="/assets/images/jump_start/youtube.png">](https://www.youtube.com/)
 
 [Tina Huang](https://www.youtube.com/c/TinaHuang1)
 
@@ -35,6 +35,8 @@ Below I share the resources that helped me in my Data Science journey.
 
 [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 
+[An Introduction to Statistical Learning](https://www.statlearning.com/)
+
 ## Data Science Reading
 
 Reading a blog a day keeps you in the game!
@@ -44,7 +46,9 @@ Reading a blog a day keeps you in the game!
 ## Paid Learning & Interview Prep
 
 Machine Learning
+
 [<img src="/assets/images/jump_start/logikbot.png" align="right">](https://www.logikbot.com/)
 
 Data Science Interview Prep
+
 [<img src="/assets/images/jump_start/stratascratch.png" align="left">](https://www.stratascratch.com/)
