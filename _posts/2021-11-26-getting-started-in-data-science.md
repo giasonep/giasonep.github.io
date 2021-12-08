@@ -6,10 +6,10 @@ tags:
   - Data Science
   - Resources
 ---
+*Below I share the resources that have helped and continue to help me in my Data Science journey.*
+
 ![image-center](/assets/images/jump_start/neuralnetworks.jpg){: .align-center}
 <center><sup>Photo by <a href="https://unsplash.com/@fabioha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">fabio</a> on <a href="https://unsplash.com/s/photos/neural-network?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sup></center>  
-
-Below I share the resources that have helped and continue to help me in my Data Science journey.
 
 ## Bootcamps & Short Immersive Courses  
 
@@ -19,13 +19,15 @@ Metis' short immersive courses allow you to dip your toes into the basic fundame
 
 ## Python & SQL Practice
 
-[<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/)[<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/)[<img src="/assets/images/jump_start/hackerrank.png" align="center">](https://www.hackerrank.com/)  
+[<img src="/assets/images/jump_start/leetcode.png" align="center">](https://leetcode.com/)  
 
-Daily practice for *thirty* minutes goes a long way.    
+[<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/)  
+
+[<img src="/assets/images/jump_start/hackerrank.png" align="center">](https://www.hackerrank.com/)  
+
+Daily practice for *thirty* minutes goes a long way.  
 
 ![image-left](/assets/images/jump_start/youtube.png){: .align-left}  
-
----  
 
 ### Data Science Channels on YouTube  
 
