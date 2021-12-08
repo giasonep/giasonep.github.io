@@ -3,7 +3,7 @@ permalink: /metis-projects/
 author_profile: true
 ---
 
-![image-center](/assets/images/metis.png){: .align-center}
+<p align="center"><a href="https://www.thisismetis.com/"><img src="/assets/images/metis.png"></a></p>  
 
 I am a graduate of Metis' accredited intensive Data Science & Engineering Bootcamp focused on Python programming, machine learning, statistical modeling, pipelines, data visualization, project design, and communication—fall 2021. 
 
