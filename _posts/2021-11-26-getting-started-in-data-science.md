@@ -7,7 +7,7 @@ tags:
   - Resources
 ---
 *Below I share the resources that have helped and continue to help me in my Data Science journey.*
-{: .text-center}
+{: .text-center}  
 
 ![image-center](/assets/images/jump_start/sailing.jpg){: .align-center}
 <center><sup>Photo by <a href="https://unsplash.com/@maxweisbecker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maximilian Weisbecker</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></sup></center>  
@@ -52,7 +52,7 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 ## Data Science Reading  
 
-Reading a Data Science related blog/article a day keeps you in the game. Check out both of these sites for unique, fun, and stimulating data related content.  
+Reading a Data Science related blog post/article a day keeps you in the game. Check out both of these sites for unique, fun, and stimulating data related content.  
 
 <p align="center"><a href="https://towardsdatascience.com/"><img src="/assets/images/jump_start/tds.png"></a></p>  
 
