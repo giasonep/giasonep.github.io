@@ -16,23 +16,17 @@ tags:
 
 For those looking to test the data waters, Metis' short immersive courses allow you to dip your toes into the basic fundamentals of data science while preparing for the rigors of the Bootcamp. Upon acceptance into Metis, prospective students have four different Bootcamp tracks to choose from and provide for full and part-time needs. With top tiered and experienced instructors at the helm of every module, a well-established network of top data science talent in the field, and a careers team invested in your future, Metis is hard to beat—*your success is their success*.  
 
-<p align="center">
-<a href="https://www.thisismetis.com/">
-    <img align='center' src="/assets/images/metis.png">
-</a>
-</p>  
-
-[<img src="/assets/images/metis.png">](https://www.thisismetis.com/)  
+<p align="center"><a href="https://www.thisismetis.com/"><img src="/assets/images/metis.png"></a></p>  
 
 ## Python & SQL Practice  
 
-Daily practice for *thirty* minutes goes a long way. Try any or all of these sites to level up your coding skills.
+Daily practice for *thirty* minutes goes a long way. Try any or all of these sites to level up your coding skills.  
 
-[<img src="/assets/images/jump_start/leetcode.png">](https://leetcode.com/){: .align-center}  
+<p align="center"><a href="https://leetcode.com/"><img src="/assets/images/jump_start/leetcode.png"></a></p>  
 
-[<img src="/assets/images/jump_start/codewars.png">](https://www.codewars.com/){: .align-center}  
+<p align="center"><a href="https://www.codewars.com/"><img src="/assets/images/jump_start/codewars.png"></a></p>  
 
-[<img src="/assets/images/jump_start/hackerrank.png">](https://www.hackerrank.com/){: .align-center}  
+<p align="center"><a href="https://www.hackerrank.com/"><img src="/assets/images/jump_start/hackerrank.png"></a></p>  
 
 ## Data Science on Youtube
 
@@ -60,16 +54,16 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 Reading a Data Science related blog/article a day keeps you in the game.  
 
-[<img src="/assets/images/jump_start/tds.png">](https://towardsdatascience.com/){: .align-center}  
+<p align="center"><a href="https://towardsdatascience.com/"><img src="/assets/images/jump_start/tds.png"></a></p>  
 
-[<img src="/assets/images/jump_start/quora.png">](https://www.quora.com/){: .align-center}  
+<p align="center"><a href="https://www.quora.com/"><img src="/assets/images/jump_start/quora.png"></a></p>  
 
 ## Additional Data Science Learning & Interview Prep  
 
-"A specific path for becoming a machine learning engineer in the real-world." - Mike West, LogikBot  
+*"A specific path for becoming a machine learning engineer in the real-world."* - Mike West, LogikBot  
 
-[<img src="/assets/images/jump_start/logikbot.png">](https://www.logikbot.com/){: .align-center}  
+<p align="center"><a href="https://www.logikbot.com/"><img src="/assets/images/jump_start/logikbot.png"></a></p>  
 
-"Prepare for a career with SQL, python, algorithms, statistics, probability, product sense, system design, and other real interview questions." - StrataScratch  
+*"Prepare for a career with SQL, python, algorithms, statistics, probability, product sense, system design, and other real interview questions."* - StrataScratch  
 
-[<img src="/assets/images/jump_start/stratascratch.png">](https://www.stratascratch.com/){: .align-center}  
+<p align="center"><a href="https://www.stratascratch.com/"><img src="/assets/images/jump_start/stratascratch.png"></a></p>  
