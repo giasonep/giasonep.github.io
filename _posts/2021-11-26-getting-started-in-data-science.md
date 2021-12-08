@@ -11,7 +11,7 @@ Below I share the resources that have helped and continue to help me in my Data 
 
 ## Bootcamps & Short Immersive Courses  
 
-[<img src="/assets/images/jump_start/metis.jpg" align="left">](https://www.thisismetis.com/)   
+[<img src="/assets/images/jump_start/metis.jpg" align="left">](https://www.thisismetis.com/)  
 
 ## Learn Python & SQL  
 
@@ -35,7 +35,7 @@ Below I share the resources that have helped and continue to help me in my Data 
 
 ## Data Science Reading  
 
-#### Reading a blog a day keeps you in the game!  
+Reading a blog a day keeps you in the game!  
 
 [<img src="/assets/images/jump_start/tds.png">](https://towardsdatascience.com/)[<img src="/assets/images/jump_start/quora.png" align="right">](https://www.quora.com/)  
 
