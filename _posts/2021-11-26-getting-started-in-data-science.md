@@ -11,15 +11,21 @@ Below I share the resources that have helped and continue to help me in my Data 
 
 ## Bootcamps & Short Immersive Courses  
 
+Metis' short immersive courses allow you to dip your toes into the basic fundamentals while preparing for the rigors of the Bootcamp. With a well established network of top data science talent in the field, plus top tier and experienced instructors at the helm of every module, Metis is hard to beat. Your success is their success. 
+
 [<img src="/assets/images/metis.png" align="center">](https://www.thisismetis.com/)  
 
 ## Python & SQL Practice
 
-Daily practice for 30 minutes goes a long way.
+Daily practice for 30 minutes goes a long way.  
 
 [<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/) [<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/) [<img src="/assets/images/jump_start/hackerrank.png" align="right">](https://www.hackerrank.com/)  
 
-## Data Science Channels on YouTube  
+---
+
+[<img src="/assets/images/jump_start/youtube.png" align="center">](https://www.youtube.com/)  
+
+### Data Science Channels on YouTube  
 
 [Tina Huang](https://www.youtube.com/c/TinaHuang1)
 
@@ -29,9 +35,9 @@ Daily practice for 30 minutes goes a long way.
 
 [Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)  
 
-[<img src="/assets/images/jump_start/youtube.png" align="center">](https://www.youtube.com/)  
 
-## Maths Channels on YouTube  
+
+### Maths Channels on YouTube  
 
 [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 
@@ -39,7 +45,7 @@ Daily practice for 30 minutes goes a long way.
 
 ## Data Science Reading  
 
-At the very least, reading a blog/article a day keeps you in the game!  
+Reading a blog/article a day keeps you in the game.  
 
 [<img src="/assets/images/jump_start/tds.png" align="center">](https://towardsdatascience.com/)  
 
