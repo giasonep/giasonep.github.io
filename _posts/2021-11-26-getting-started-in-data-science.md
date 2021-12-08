@@ -20,7 +20,7 @@ Metis' short immersive courses allow you to dip your toes into the basic fundame
 
 ## Python & SQL Practice  
 
-Daily practice for *thirty* minutes goes a long way.
+Daily practice for *thirty* minutes goes a long way. Try any or all of these sites to level up your coding skills.
 
 [<img src="/assets/images/jump_start/leetcode.png" align="center">](https://leetcode.com/)  
 
