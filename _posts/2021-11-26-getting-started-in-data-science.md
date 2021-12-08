@@ -23,7 +23,7 @@ Metis' short immersive courses allow you to dip your toes into the basic fundame
 
 Daily practice for *thirty* minutes goes a long way.    
 
-![image-left](/assets/images/jump_start/youtube.jpg){: .align-left}  
+![image-left](/assets/images/jump_start/youtube.png){: .align-left}  
 --- 
 ### Data Science Channels on YouTube  
 
