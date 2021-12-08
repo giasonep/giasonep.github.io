@@ -17,7 +17,7 @@ Below I share the resources that have helped and continue to help me in my Data 
 
 [<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/) [<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/) [<img src="/assets/images/jump_start/hackerrank.png" align="right">](https://www.hackerrank.com/) 
 
-## YouTube Data Science Channels
+ ## Data Science Channels on ![<img src="/assets/images/jump_start/youtube.png"/>](/assets/images/jump_start/youtube.png)
 
 [<img src="/assets/images/jump_start/youtube.png">](https://www.youtube.com/)
 
@@ -29,7 +29,7 @@ Below I share the resources that have helped and continue to help me in my Data 
 
 [Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)
 
-## YouTube Maths Channels
+ ## Maths Channels on ![<img src="/assets/images/jump_start/youtube.png"/>](/assets/images/jump_start/youtube.png)
 
 [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 
