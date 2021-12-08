@@ -16,7 +16,7 @@ tags:
 
 For those looking to test the data waters, Metis' short immersive courses allow you to dip your toes into the basic fundamentals of data science while preparing for the rigors of the Bootcamp. Upon acceptance into Metis, prospective students have four different Bootcamp tracks to choose from and provide for full and part-time needs. With top tiered and experienced instructors at the helm of every module, a well-established network of top data science talent in the field, and a careers team invested in your future, Metis is hard to beat—*your success is their success*.  
 
-[<img src="/assets/images/metis.png">](https://www.thisismetis.com/){: .align-center}  
+![<img src="/assets/images/metis.png">](https://www.thisismetis.com/){: .align-center}  
 
 ## Python & SQL Practice  
 
