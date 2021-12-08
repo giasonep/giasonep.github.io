@@ -6,6 +6,8 @@ tags:
   - Data Science
   - Resources
 ---
+![image-center](/assets/images/neuralnetworks.jpg){: .align-center}
+Photo by <a href="https://unsplash.com/@fabioha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">fabio</a> on <a href="https://unsplash.com/s/photos/neural-network?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Below I share the resources that have helped and continue to help me in my Data Science journey.
 
@@ -17,7 +19,7 @@ Metis' short immersive courses allow you to dip your toes into the basic fundame
 
 ## Python & SQL Practice
 
-[<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/)[<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/)[<img src="/assets/images/jump_start/hackerrank.png" align="right">](https://www.hackerrank.com/)  
+[<img src="/assets/images/jump_start/leetcode.png" align="left">](https://leetcode.com/)[<img src="/assets/images/jump_start/codewars.png" align="center">](https://www.codewars.com/)[<img src="/assets/images/jump_start/hackerrank.png" align="center">](https://www.hackerrank.com/)  
 
 Daily practice for *thirty* minutes goes a long way.    
 
