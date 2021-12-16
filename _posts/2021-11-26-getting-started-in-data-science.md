@@ -44,6 +44,8 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 - [Ken Jee](https://www.youtube.com/c/KenJee1) 
 
+- [Keith Galli](https://www.youtube.com/c/KGMIT)
+
 ##### Maths Channels 
 
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
@@ -58,12 +60,13 @@ Reading a Data Science related blog post/article a day keeps you in the game. Ch
 
 <p align="center"><a href="https://www.quora.com/"><img src="/assets/images/jump_start/quora.png"></a></p>  
 
-## More Data Science Learning & Interview Prep  
-
-*"A specific path for becoming a machine learning engineer in the real-world."* - [Mike West](https://www.quora.com/profile/Mike-West-99), [LogikBot](https://www.logikbot.com/)  
-
-<p align="center"><a href="https://www.logikbot.com/"><img src="/assets/images/jump_start/logikbot.png"></a></p>  
+## More Data Science Learning & Interview Prep   
 
 *"Prepare for a career with SQL, python, algorithms, statistics, probability, product sense, system design, and other real interview questions."* - [StrataScratch](https://www.stratascratch.com/)  
 
-<p align="center"><a href="https://www.stratascratch.com/"><img src="/assets/images/jump_start/stratascratch.png"></a></p>  
+<p align="center"><a href="https://www.stratascratch.com/"><img src="/assets/images/jump_start/stratascratch.png"></a></p> 
+
+*"Master the coding skills to become an engineer companies LOVE to hire."* - [Mosh](https://codewithmosh.com/)  
+
+<p align="center"><a href="https://codewithmosh.com/"><img src="/assets/images/jump_start/mosh.png"></a></p> 
+
