@@ -62,13 +62,17 @@ Reading a Data Science related blog post/article a day keeps you in the game. Ch
 
 <p align="center"><a href="https://www.quora.com/"><img src="/assets/images/jump_start/quora.png"></a></p>  
 
-## More Data Science Learning & Interview Prep   
+## More Data Science Learning & Interview Prep  
+
+##### StrataScratch
 
 *"Prepare for a career with SQL, python, algorithms, statistics, probability, product sense, system design, and other real interview questions."* - [StrataScratch](https://www.stratascratch.com/)  
 
 <p align="center"><a href="https://www.stratascratch.com/"><img src="/assets/images/jump_start/stratascratch.png"></a></p> 
 
-*"Master the coding skills to become an engineer companies LOVE to hire."* - [Mosh](https://codewithmosh.com/)  
+##### Code with Mosh
+
+*"Master the coding skills to become an engineer companies LOVE to hire."* - [Mosh Hamedani](https://codewithmosh.com/)  
 
 <p align="center"><a href="https://codewithmosh.com/"><img src="/assets/images/jump_start/mosh.png"></a></p> 
 
