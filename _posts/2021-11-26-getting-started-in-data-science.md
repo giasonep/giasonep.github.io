@@ -52,6 +52,8 @@ Daily practice for *thirty* minutes goes a long way. Try any or all of these sit
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)  
 
+- [Ritvikmath](https://www.youtube.com/c/ritvikmath)  
+
 ## Data Science Reading  
 
 Reading a Data Science related blog post/article a day keeps you in the game. Check out both of these sites for unique, fun, and stimulating data related content.  
