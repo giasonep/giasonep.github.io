@@ -14,7 +14,7 @@ I am a former risk manager and market-maker on the CBOE and CME who fulfilled my
 - Machine Learning (Regression, Classification, Supervised & Unsupervised)
 - NLP
 - Web-Scraping
-- Google Cloud
+- Cloud Computing
 {: .notice--warning}
 
 *Check out my resume* [*here*](https://giasonep.github.io/resume/)
