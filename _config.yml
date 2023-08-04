@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data Science & Analytics
+title: Data Engineering & Architecture
 name: Jason Palumbo
 logo: "/assets/images/logo.png"
 subtitle: Design ∙ Impact
 email: False
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, my name is Jason Palumbo and I would love for you to check out my data science site!
+  Hi, my name is Jason Palumbo and I would love for you to check out my data engineering site!
 twitter_username: username
 github_username: giasonep
 minimal_mistakes_skin: dirt
@@ -32,7 +32,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
