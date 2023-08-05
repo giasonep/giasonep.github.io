@@ -49,6 +49,6 @@ It's been nearly eight months since we deployed this enhanced data transfer pipe
 
 ---
 
-I hope you found this content interesting and I thank you for reading :bowtie:
+I hope you found this content informative and I thank you for reading :bowtie:
 
 **If you are a potential employer and interested in seeing some examples of what this code looks like, message me on my [Contact](https://giasonep.github.io/contact/) page or on [LinkedIn](https://linkedin.com/in/jasonmpalumbo) and I will happily walk you through my private repo on [GitHub](https://github.com/giasonep)! Cheers** :dizzy:
