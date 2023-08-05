@@ -23,7 +23,7 @@ We had valuable client data that was delivered daily to an older AWS S3 account 
 
 ## Initial Approach
 
-Our initial attempt was to use the **S3FileTransformOperator()** along with `/bin/cp` for the **transform_scripts** argument, which served us well for most file transfers. To access the older AWS account, we used an AWS access key ID and secret access key stored as encrypted parameters in AWS Systems Manager. However, I soon encountered an issue - files larger than ~2 GB were failing due to the memory limitations in our *Airflow MWAA* environment.
+Our initial attempt was to use the **S3FileTransformOperator()** along with `/bin/cp` for the **transform_scripts** argument, which served us well for most file transfers. To access the source AWS account, we used an AWS access key ID and secret access key stored as encrypted parameters in AWS Systems Manager. However, I soon encountered an issue - files larger than ~2 GB were failing due to the memory limitations in our *Airflow MWAA* environment.
 
 ## The New Process
 
